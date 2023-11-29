@@ -3,7 +3,7 @@
 ## Utilisation du Bouton
 
 1. Ajoutez le bouton à votre fichier HTML :
-## APERCU
+##APERCU
 ![2023-11-29-15-00-08](https://github.com/Luxuse/css-bouton-exemple/assets/137567329/d280e0fd-0f97-4cb4-840c-af8a0d552784)
 
    ```html  link 
